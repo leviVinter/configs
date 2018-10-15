@@ -1,0 +1,14 @@
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension ikappas.phpcs
+code --install-extension imperez.smarty
+code --install-extension mikestead.dotenv
+code --install-extension ms-python.python
+code --install-extension neilbrayfield.php-docblocker
+code --install-extension octref.vetur
+code --install-extension PeterJausovec.vscode-docker
+code --install-extension pflannery.vscode-versionlens
+code --install-extension richie5um2.vscode-sort-json
+code --install-extension sysoev.language-stylus
+code --install-extension vscodevim.vim

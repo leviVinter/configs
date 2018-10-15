@@ -1,0 +1,53 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "extensions.ignoreRecommendations": false,
+
+    "window.zoomLevel": 0,
+    "editor.rulers": [79],
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "breadcrumbs.enabled": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.parameterHints.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "editor.formatOnSave": false,
+    "telemetry.enableTelemetry": false,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": true,
+
+    "git.defaultCloneDirectory": "~/Dev",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "gitlens.codeLens.enabled": false,
+
+    "[json]": {
+        "editor.formatOnSave": true
+    },
+
+    "html.autoClosingTags": false,
+    "javascript.autoClosingTags": false,
+    "typescript.autoClosingTags": false,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "eslint.enable": false,
+    "eslint.run": "onSave",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": ["--line-length", "79"],
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+
+    "vim.hlsearch": true,
+    "vim.smartcase": false,
+
+    "php.suggest.basic": false
+}
