@@ -12,6 +12,7 @@
     "editor.parameterHints.enabled": false,
     "workbench.editor.enablePreview": false,
     "editor.formatOnSave": false,
+    "editor.snippetSuggestions": "top",
     "telemetry.enableTelemetry": false,
     "editor.renderControlCharacters": false,
     "editor.renderWhitespace": "all",
@@ -21,10 +22,12 @@
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
-    "gitlens.historyExplorer.enabled": true,
     "gitlens.codeLens.enabled": false,
 
     "[json]": {
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
         "editor.formatOnSave": true
     },
 
@@ -45,4 +48,8 @@
     "vim.smartcase": false,
 
     "php.suggest.basic": false,
+    "vim.foldfix": true,
+    "window.nativeFullScreen": false,
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
 }
